@@ -13,11 +13,11 @@ public class if_else_composta {
 		hora = entrada.nextInt();
 		
 		
-		if(hora < 12) {
+		if (hora < 12) {
 			System.out.println("Bom dia!");
 		}
 		
-		else { if (hora < 18) {
+		else if (hora < 18) {
 			System.out.println("Boa tarde!");
 		}
 		
@@ -25,10 +25,6 @@ public class if_else_composta {
 			System.out.println("Boa noite!");
 		}
 			
-		}
-		
-		
-		
 		
 		
 		entrada.close();

@@ -1,1 +1,7 @@
 /bin/
+# Ignorar a pasta .settings
+.settings/
+
+# Ignorar os arquivos .classpath e .project
+.classpath
+.project
