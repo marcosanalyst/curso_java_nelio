@@ -21,8 +21,7 @@ public class exercicio_if_else_2 {
 			
 		}
 				
-		
-		
+				
 		entrada.close();
 	
 	}
